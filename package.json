@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker-main",
+  "version": "1.0.0",
+  "description": "In this simple expenses tracker application project I have used  some of the more intermediate advanced parts of the document object model or the javascript dom to show  how to build this web application. Users can add their expenses records and all those records are displaying in a separate table. From that table user can update or delete the each records.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
